@@ -1,6 +1,7 @@
 <?php
 
-namespace Simplex;
+
+namespace Core\Listener;
 
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\HttpKernel\Event\ViewEvent;

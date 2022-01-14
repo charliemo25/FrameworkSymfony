@@ -2,7 +2,8 @@
     "name": "curze/framework-symfony",
     "autoload": {
         "psr-4": {
-            "": "src/"
+            "Core\\": "src/",
+            "App\\": "App/"
         }
     },
     "authors": [{

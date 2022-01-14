@@ -1,7 +1,8 @@
 <?php
 
-// example.com/src/container.php
-use Simplex\Framework;
+namespace Core;
+
+use Core\Framework;
 use Symfony\Component\Routing;
 use Symfony\Component\HttpKernel;
 use Symfony\Component\HttpFoundation;
